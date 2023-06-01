@@ -21,6 +21,6 @@ Upon completion of the project, the following deliverables will be provided:
 
 1. SQL Queries and Data Manipulation: In order to extract, filter, aggregate, and alter the data as needed for the analysis, SQL queries will be created and run. These queries will guarantee the effective retrieval of pertinent data from the databases.
 
-2. Data Visualizations: To portray the analyzed data in a thorough and understandable way, visualizations in Tableau will be created. The links, patterns, and trends identified via the analysis will be better understood with the use of these visualizations.
+2. Data Visualizations: To portray the analyzed data in a thorough and understandable way, visualizations in Tableau will be created. https://public.tableau.com/app/profile/micaela.de.feo/viz/COVID19AnalysisDashboard_16855873156670/Dashboard1
 
 Data Souce: https://ourworldindata.org/covid-deaths
